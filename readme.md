@@ -42,4 +42,4 @@ Neste projeto, aprendi que podemos utilizar e manipular da melhor forma o displa
 
 ## Acessando o site
 
-Para acessar o site do Landing page com grid, por favor use esse link : <a href="file:///C:/Users/Ariana/Documents/estudos/curso-dev-quest/landing-page-com-grid/index.html" target="_blank">Curso DevQuest | Landing page com grid</a>
+Para acessar o site do Landing page com grid, por favor use esse link : <a href="https://tiago-forward.github.io/landing-page-com-grid/" target="_blank">Curso DevQuest | Landing page com grid</a>
